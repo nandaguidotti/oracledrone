@@ -1,0 +1,3 @@
+# oracledrone
+
+No contexto de arquitetura de software, descrevemos uma arquitetura base modularizada capaz de se adaptar as exigências de cada aplicação. Os VANTs estão sendo utilizados em aplicações em áreas como agricultura, segurança, monitoramento ambiental, coleta de dados, cidades inteligentes, entre outras. A plataforma web OD agrega diferentes módulos que satisfaz a necessidade de diferentes áreas de aplicações. Dados gerados por aeronaves como imagens, vídeos ou informações do próprio voos são de extrema importância. Elas devem ser acessíveis e  armazenados de forma organizadas e segura. 
